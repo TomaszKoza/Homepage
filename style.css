@@ -1,0 +1,71 @@
+/*------------------------------------GENERAL---------------------------------------------------*/
+body{
+    color:rgba(31, 31, 63, 0.568);
+    
+}
+h1
+{
+color:rgba(12, 12, 90, 0.979);
+
+}
+h2{
+    color:rgba(240, 39, 39, 0.993);
+}
+h3{
+    color:rgba(224, 70, 13, 0.575);
+}
+.company
+{
+    color:black;
+    text-decoration: underline solid rgb(106, 250, 49) 10px;
+   
+}
+nav{
+    background-color: rgb(255, 197, 126);
+}
+section{
+    background-color:rgba(207, 159, 252, 0.692);
+}
+footer{
+    color:white;
+    background-color: brown;
+}
+.box
+{
+    height: 500px;
+    background-color: white;
+}
+/*---------------------------------------------NOTES--------------------------------------------*/
+
+p{
+    color:blue !important;
+}
+
+.notebox
+{
+    background-color: purple;
+    color:white;
+    font-weight: 900;
+    min-height: 50px;
+   
+}
+.notebox_exercise
+{
+    background-color:lightgray;
+    color:rgb(0, 0, 0);
+    font-weight: bolder;
+    min-height: 50px;
+}
+.a_pink
+{
+    color:pink;
+}
+
+.main_logo
+{
+    margin-left:35%;
+
+width:500px;
+height:300px;
+
+}
