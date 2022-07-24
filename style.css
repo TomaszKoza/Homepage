@@ -43,18 +43,31 @@ footer{
 
 .notebox
 {
+    display:inline-block;
+    position: relative;
+    left:5%;
+    right:5%;
+
     background-color: purple;
     color:white;
     font-weight: 900;
     min-height: 50px;
+    width: 90%;
+    border: 0.2em solid black;
    
 }
 .notebox_exercise
 {
+    display:inline-block;
+    position: relative;
+    left:5%;
+    right:5%;
     background-color:lightgray;
     color:rgb(0, 0, 0);
     font-weight: bolder;
     min-height: 50px;
+    width: 90%;
+    border: 0.2em solid black;
 }
 .a_pink
 {
@@ -68,4 +81,11 @@ footer{
 width:500px;
 height:300px;
 
+}
+
+h2, h3 
+{
+    display: inline-block;
+    width:100%;
+    text-align:center;
 }
